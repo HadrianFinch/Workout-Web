@@ -22,7 +22,7 @@ button
     padding: 2px;
 }
 
-i, span, div
+i, span, div, footer
 {
     border-radius: 10px !important;
 }
