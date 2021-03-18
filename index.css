@@ -1,0 +1,32 @@
+body,h1,h2,h3,h4,h5 {font-family: "Poppins", sans-serif}
+body {font-size: 16px;}
+img {margin-bottom: -8px;}
+.mySlides {display: none;}
+
+.workoutGreen
+{
+    background-color: #15c7a7 !important;
+}
+.siriColor
+{
+    color: #0d71b4 !important;
+}
+.siriBackground
+{
+    background-color: #1072b4 !important;
+}
+button
+{
+    border: none;
+    border-radius: 10px;
+    padding: 2px;
+}
+
+i, span, div
+{
+    border-radius: 10px !important;
+}
+.rund
+{
+    border-radius: 10px !important;
+}
